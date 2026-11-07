@@ -11,6 +11,10 @@ A Python agent for the [Agent Programming Exercise](https://ape.llm.phd/). It ex
 | Code generation and execution | OpenAI-hosted Python Code Interpreter |
 | Memory | SQLite stores number pairs across A2A sessions and server restarts |
 
+## Evaluation results
+
+![APE evaluation dashboard showing all six tests passed](ape-evaluation-results.png)
+
 ## Run locally
 
 Use Windows with Python 3.13, Microsoft Edge, and an OpenAI API key with access to GPT-6 Luna. From the repository folder in PowerShell, install the dependencies.
